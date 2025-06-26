@@ -1,5 +1,5 @@
 # ARTVC
-BPU - Ekipçe hazırlanan Python proje ödevidir. Atış türleri üzerine hesaplama yapan proje.
+Kapadokya Üniversitei - BPU programı ekipçe hazırlanan Python dersi proje ödevidir. Atış türleri üzerine hesaplama yapan proje.
 
 Proje içerisinde katkıları bulunanlar:
 
